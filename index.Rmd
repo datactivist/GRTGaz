@@ -18,7 +18,7 @@ output:
           </div>
         </div>
 params:
-  event: Data week GRDF
+  event: GRDF DPI
   slug: grdf
   description: Gaz et open data à tous les étages !
   title: Gaz et open data à tous les étages !
