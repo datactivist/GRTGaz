@@ -2,7 +2,7 @@
 title: "Gaz et open data à tous les étages !"
 subtitle: "Les opportunités de l'ouverture des données"
 author: "Joël Gombin, Datactivist"
-date: "30 mars 2021"
+date: "10 novembre 2021"
 output:
   SlidesDatactivist::moon_reader:
     css: [default, datactivist, datactivist-fonts]
@@ -18,8 +18,8 @@ output:
           </div>
         </div>
 params:
-  event: GRDF DPI
-  slug: grdf
+  event: GRTGaz Level up
+  slug: grt
   description: Gaz et open data à tous les étages !
   title: Gaz et open data à tous les étages !
   image: ./img/logo_grdf.png
@@ -39,7 +39,7 @@ class:center, middle
 
 pour
 
-![](./img/logo_grdf.png)
+![](./img/logo_grt.png)
 
 
 ---
@@ -56,6 +56,10 @@ Les productions de Datactivist sont librement réutilisables selon les termes de
 <BR>
 
 ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+---
+
+![](./img/team.jpg)
+
 
 ---
 class: inverse, center, middle
