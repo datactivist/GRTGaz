@@ -44,6 +44,7 @@ pour
 
 ---
 class: center, middle
+exclude: true
 
 Ces slides en ligne : `r paste0("http://datactivist.coop/", params$slug)`
 
@@ -67,11 +68,14 @@ class: inverse, center, middle
 # C'est quoi l'open data ?
 
 ---
+exclude: true
 class: inverse, center, middle
+
 
 # D'abord, c'est quoi les données ?
 
 ---
+exclude: true
 ## La pyramide Data-Information-Knowledge-Wisdom
 
 .pull-left[
@@ -87,6 +91,7 @@ Les données peuvent être des :
 - symboles]
 
 ---
+exclude: true
 ## La pyramide Data-Information-Knowledge-Wisdom
 
 - Les **.red[données]** sont la matière "brute" d'où naît l'information.
@@ -98,23 +103,27 @@ Les données peuvent être des :
 - En donnant du sens à la **.red[connaissance]** on obtient du savoir.
 
 ---
+exclude: true
 ## La mise en données du monde
 
 - Concrètement, aujourd'hui, quels aspects de votre vie sont mis en données ?
 
 --
+exclude: true
 
 - Recherches internet, pratiques sportives, consommation énergie, régime alimentaire, trajets dans les transports en commun...
 
 - Cette mise en donnée est rendue possible par le développement de .red[**capteurs**] qui viennent collecter et agréger ces données 
 
 --
+exclude: true
 
 - Recherches internet .red[(cookies)], pratiques sportives .red[(montres connectées)], consommation énergie .red[(compteurs connectés)], régime alimentaire .red[(appli type Yuka)], trajets dans les transports en commun .red[(Pass Navigo)]...
 
 - La question devient peut-être, *quels aspects de votre vie ne sont pas (encore) mis en données ?*
 
 ---
+exclude: true
 class: inverse, center, middle
 
 # Et l'open data donc ?
@@ -129,7 +138,7 @@ L'open data, ou données ouvertes, ce sont :
 --
 
 
-- le plus souvent produites par des acteurs .red[publics]
+- le plus souvent (mais pas forcément !) produites par des acteurs .red[publics]
 
 --
 
@@ -159,25 +168,25 @@ Si l'open data est désormais une .red[obligation], c'est avant tout une .red[op
 [![](./img/spectrum.png)](https://medium.com/datactivist/ouvrir-ce-nest-pas-juste-partager-des-donn%C3%A9es-simple-basique-ec87d762f2a2)
 
 ---
-## Et chez GRDF ?
+## Et chez GRTGaz ?
 
 - des .red[obligations légales] : la loi pour une République numérique, et la loi de transition énergétique pour la croissance verte principalement
 
 - le choix d'.red[aller au-delà], pour l'innovation, les partenaires territoriaux et la défense de la place du gaz dans le mix énergétique.
 
 ---
-## Et chez GRDF ?
+## Et chez GRTGaz ?
 
-Un portail open data dédié
+Plusieurs portails open data dédiés
 
-[.center[.reduite[![](./img/data_grdf.png)]]](https://opendata.grdf.fr)
+[.center[.reduite[![](./img/portails_grt.png)]]](https://opendata.grtgaz.com/pages/login-redirection/)
 
 ---
-## Et chez GRDF ?
+## Et chez GRTGaz
 
-Des données également diffusées via l'agence ORE 
+Des données également diffusées via Réseaux Energie 
 
-[![](./img/data_ore.png)](https://opendata.agenceore.fr)
+[![](./img/portail_odre.png)](https://opendata.reseaux-energies.fr/pages/accueil/)
 
 ---
 class: inverse, center, middle
@@ -243,22 +252,27 @@ class: inverse, center, middle
 
 ## Google Maps
 
-![](./img/gmaps.png)
+[![](./img/groisy_gmap.png)](https://www.google.fr/maps/place/74570+Groisy/@46.0093938,6.1496001,17.99z/data=!4m13!1m7!3m6!1s0x478b8843ea419517:0x408ab2ae4ba9ed0!2s74570+Groisy!3b1!8m2!3d46.0182659!4d6.171308!3m4!1s0x478b8843ea419517:0x408ab2ae4ba9ed0!8m2!3d46.0182659!4d6.171308)
 
 ---
 ## OpenStreetMap
 
-![](./img/osm.png)
+[![](./img/groisy_osm.png)](https://openinframap.org/#16.9/46.009562/6.14934/L,O)
 
 ---
 ## OpenStreetMap
 
-![](./img/osm_edit.png)
+![](./img/groisy_edit.png)
 
 ---
 ## OpenStreetMap
 
-[![](./img/openinframap.png)](https://openinframap.org/#11.9/48.86066/2.33825/O,P)
+[![](./img/etrez_oim.png)](https://openinframap.org/#15/46.33865/5.21507/O)
+
+---
+## OpenStreetMap
+
+[![](./img/etrez_odre.png)](https://opendata.reseaux-energies.fr/explore/dataset/trace-du-reseau-grt-250/map/?basemap=jawg.streets&location=15,46.33865,5.21507)
 
 
 ---
@@ -379,7 +393,7 @@ class: inverse, center, middle
 ---
 ## Wikidata
 
-[![](./img/wikidata_grdf.png)](https://www.wikidata.org/wiki/Q3099682)
+[![](./img/wikidata_grt.png)](https://www.wikidata.org/wiki/Q820035)
 
 
 ---
